@@ -11,9 +11,9 @@
         }
     ],
     "require": {
-        "symfony/framework-bundle": "dev-master",
-        "doctrine/orm": "dev-master",
-        "doctrine/doctrine-bundle": "dev-master"
+        "symfony/framework-bundle": "~3.*",
+        "doctrine/orm": "~2.*",
+        "doctrine/doctrine-bundle": "~1.*"
     },
     "suggest": {
         "jms/serializer-bundle": "Advanced JSON encoding capabilities, recommended."
